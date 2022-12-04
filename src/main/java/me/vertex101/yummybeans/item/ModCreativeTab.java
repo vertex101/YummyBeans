@@ -7,7 +7,7 @@ public class ModCreativeTab {
     public static final CreativeModeTab YUMMY_TAB = new CreativeModeTab("yummytab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.BEAN_BLACK.get());
+            return new ItemStack(ModItems.BEAN_JAR.get());
         }
     };
 }
