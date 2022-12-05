@@ -14,7 +14,6 @@ import org.slf4j.Logger;
 
 import java.lang.reflect.Modifier;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(YummyBeans.MOD_ID)
 public class YummyBeans {
     public static final String MOD_ID = "yummybeans";
